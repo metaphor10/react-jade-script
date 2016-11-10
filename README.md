@@ -1,5 +1,5 @@
 # React Jade Generator Script
----
+
 *Disclaimer: VERY VERY experimental just trying stuff out and having fun*
 <br>
 ## To get started:
