@@ -1,6 +1,6 @@
 # React Jade Generator script
 
-VERY VERY experimental just trying stuff out not
+VERY VERY experimental just trying stuff out
 
 you need to have node npm and node-express-genrator installed.
 
