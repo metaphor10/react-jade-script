@@ -1,0 +1,5 @@
+#exclude everything but the bash script and readme
+*
+!.gitignore
+!generate_jade_server.sh
+!Readme.md
